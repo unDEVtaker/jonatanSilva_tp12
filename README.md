@@ -1,5 +1,6 @@
-# Trabajo Práctico 12 - Funciones
+Trabajo Práctico 12 - Funciones
+Objetivo
+Este proyecto tiene como objetivo ejercitar el uso de funciones en JavaScript, aplicando conceptos aprendidos en clases anteriores.
 
-## Objetivo
-
-Este proyecto tiene como objetivo ejercitar todo lo aprendido sobre ciclos o bucles iterativos, integrándolos con conocimientos previos. Los ciclos constituyen un recurso fundamental en programación, ya que nos permiten evitar la repetición de líneas de código cuando queremos ejecutar una tarea de manera repetitiva, como recorrer los elementos almacenados en un array.
+Alquiler de Vehículos - Ejercicio de Funciones en JavaScript
+Este proyecto contiene un ejercicio para practicar el uso de funciones en JavaScript. El objetivo es calcular el costo total de alquiler de un vehículo, considerando el tipo de vehículo, los días de alquiler y la opción de agregar una silla para bebé.
